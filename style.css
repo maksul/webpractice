@@ -1,0 +1,16 @@
+h1 {
+    border: 1px solid red;
+} 
+h2 {
+    color: green;
+    background-color: greenyellow;
+}
+
+.peace { 
+    color: rgb(234, 112, 222);
+
+}
+
+thead {
+    border: 3px solid green;  
+}
